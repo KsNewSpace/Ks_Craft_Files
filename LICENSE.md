@@ -14,4 +14,4 @@
 
 > Give credit where credit is due
 
-*a very smart person*
+-> *a very smart person*
