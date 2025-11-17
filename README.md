@@ -15,3 +15,9 @@ Part Dependencies:
 ![image](Planes/kekw_as2p_880_2r/thumb.jpg)
 *<div align="center">Variant (A), (S)mall Sized, (2 P)anther Engines, (880) max. fuel, Payload (2 R)ockets</div>*
 
+<div  style="display: inline-block;">
+<img src="Planes/kekw_as2p_880_2r/front.jpg" width=320>
+<img src="Planes/kekw_as2p_880_2r/top.jpg" width=320>
+<img src="Planes/kekw_as2p_880_2r/back.jpg" width=320>
+</div>
+
