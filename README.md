@@ -1,4 +1,4 @@
-# K's Craft Files for KSP
+# K's Craft Files for KSP (WiP)
 *by Lukas K. aka KsNewSpace*
 
 ## My Complete Mod List: [K's Stockalike Overhaul](https://github.com/KsNewSpace/Ks_Stockalike_Overhaul)
