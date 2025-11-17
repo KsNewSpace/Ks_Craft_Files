@@ -3,7 +3,7 @@
 
 *by Lukas K. aka KsNewSpace*
 
-## My Full Mod List: [K's Stockalike Overhaul](https://github.com/KsNewSpace/Ks_Stockalike_Overhaul)
+## My Complete Mod List: [K's Stockalike Overhaul](https://github.com/KsNewSpace/Ks_Stockalike_Overhaul)
 
 Part Dependencies:
 - Restock / Restock+
@@ -15,4 +15,3 @@ Part Dependencies:
 ![image](Planes/kekw_as2p_880_2r/thumb.jpg)
 *<div align="center">Variant (A), (S)mall Sized, (2 P)anther Engines, (880) max. fuel, Payload (2 R)ockets</div>*
 
-## My Complete Mod List: [K's Stockalike Overhaul](https://github.com/KsNewSpace/Ks_Stockalike_Overhaul)
