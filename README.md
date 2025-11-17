@@ -5,7 +5,7 @@
 
 ## My Full Mod List: [K's Stockalike Overhaul](https://github.com/KsNewSpace/Ks_Stockalike_Overhaul)
 
-Dependencies:
+Part Dependencies:
 - Restock / Restock+
 - RestockPBR / RestockPlusPBR
 
