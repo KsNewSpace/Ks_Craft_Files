@@ -27,6 +27,6 @@ Part Dependencies:
 
 ...
 
-## ROBOTIC
+## ROBOTICS
 
 ...
